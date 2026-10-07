@@ -131,10 +131,7 @@ Streamlit
 
 Custom CSS
 
-🚀 Getting Started
-1️⃣ Clone the repo
-git clone https://github.com/Athar-cell/Astroguard.git
-cd Astroguard
+
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
@@ -191,8 +188,6 @@ ZIP bundle for hackathon submission
 
 🧑‍💻 Author
 
-Athar Sharma
+Vikash Kumar
 B.Tech CSE | AI & Data Science | ML | SpaceTech
-📫 atharsharma86@gmail.com
 
-🔗 GitHub: https://github.com/Athar-cell
